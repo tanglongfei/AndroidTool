@@ -84,9 +84,9 @@ https://www.vecteezy.com/editor
 23:短网址
   http://dwz.wailian.work/
 
-5:Facebook调试神器
+24:Facebook调试神器
  https://github.com/facebook/stetho
  chrome://inspect/
 
-6:非常常用的设置界面条目
+25:非常常用的设置界面条目
  https://github.com/leonHua/LSettingView
